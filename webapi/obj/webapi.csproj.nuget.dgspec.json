@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\MySite\\MySite\\webapi\\webapi.csproj": {}
+    "D:\\Repos\\MySite\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\MySite\\MySite\\webapi\\webapi.csproj": {
+    "D:\\Repos\\MySite\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\MySite\\MySite\\webapi\\webapi.csproj",
+        "projectUniqueName": "D:\\Repos\\MySite\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "D:\\Repos\\MySite\\MySite\\webapi\\webapi.csproj",
+        "projectPath": "D:\\Repos\\MySite\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\Tennison Gray\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\MySite\\MySite\\webapi\\obj\\",
+        "outputPath": "D:\\Repos\\MySite\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
